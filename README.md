@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Ghawri
-I write code
-<!---
-Ghawri/Ghawri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+I'm+Ishant+Ghawri;Laravel+Developer;Full+Stack+Engineer;Always+Learning)
